@@ -1,0 +1,9 @@
+git init
+git remote add origin https://github.com/bakkaka:desktop-tutorial.git
+curl -X DELETE -H "Authorization: token YOUR_GITHUB_TOKEN" https://api.github.com/repos/username/repository-name
+
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+pbcopy <~/.ssh/id_github_ed25519.pub
+ssh -T bakkaka@github.com
