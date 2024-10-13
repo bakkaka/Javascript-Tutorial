@@ -1,0 +1,8 @@
+Progression des cours en Javascript
+1-Préparer l'environnement de developpement.
+2-Controller du code grace aux conditions
+3- Répeter du code graçe aux boucles
+4- Organiser votre code graçe aux fonctions A suivre...demain mardi
+5-Recuperer un element d'une page web
+6-Modifier un element html
+7- Intereagissez avec un élement d'une page web

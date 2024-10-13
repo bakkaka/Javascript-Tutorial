@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*********************************************************************************
  * 
  * Ce fichier contient toutes les constantes nécessaires au fonctionnement du jeu.
@@ -8,3 +9,7 @@
 // Déclaration des tableaux contenant les listes des mots proposés à l'utilisateur
 const listeMots = ["Cachalot", "Pétunia", "Serviette"]
 const listePhrases = ["Pas de panique !", "La vie, l'univers et le reste", "Merci pour le poisson"]
+=======
+//const listMots = ["Cachalot", "Petunia", "Serviette"]
+//const listSentences = ["Bonjour", "Bonsoir", "Bonne nuit"]
+>>>>>>> 9be1973 (new files)

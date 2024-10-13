@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*********************************************************************************
  * 
  * Ce fichier contient toutes les fonctions nécessaires au fonctionnement du jeu. 
@@ -67,3 +68,25 @@ function lancerJeu() {
 
     afficherResultat(score, nbMotsProposes)
 }
+=======
+
+
+
+//function lancerJeux(){
+
+    
+    let score = 0
+    let nbMotsProposes = 0
+    let btnValiderMot = document.getElementById("btnValiderMot")
+    let inputEcriture = document.getElementById("inputEcriture")
+        btnValiderMot.addEventListener("click", () =>{
+            console.log(inputEcriture.value)
+
+        })
+
+  
+
+   // afficherResultat(score, nbMotsProposes)
+
+//}
+>>>>>>> 9be1973 (new files)
